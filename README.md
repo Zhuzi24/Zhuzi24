@@ -22,7 +22,7 @@
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/Zhuzi24"><img src="https://img.shields.io/badge/GitHub-Zhuzi24-blue?logo=github" /></a>
-<a href="https://blog.csdn.net/qq_50777229?type=blog"><img src="https://img.shields.io/badge/CSDN-小火车、摆动的旋律-red?" /></a>
+<!-- <a href="https://xiaokang2022.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-小火车、摆动的旋律-red?" /></a> -->
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=Zhuzi24&abbreviated=true&color=yellow" />
 </p>
